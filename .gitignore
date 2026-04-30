@@ -206,6 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-src/*.jpg
-src/*.bmp
-src/*.png
+# 使用pillow库时，可能用来测试的文件
+test*.png
+in.png
+out.txt
