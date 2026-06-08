@@ -4,6 +4,6 @@
 本仓库在学 Python
 
 #### 部分运行效果展示
-`/python/tk3.py`展示
+`/src/learn_tkinter.py`展示
 
 ![pic](/images/001.png)
