@@ -68,3 +68,8 @@ class LoginApp(tk.Tk):
     def quit_app(self):
         """退出程序"""
         self.destroy()
+
+if __name__ == "__main__":
+    # 实例化窗口并启动主循环
+    app = LoginApp()
+    app.mainloop()
