@@ -201,3 +201,6 @@ __marimo__/
 
 # 使用 Pillow 库时可能用来测试的输入/测试文件
 test*.png
+
+# 使用 Demucs 库时可能用来测试的输入/测试文件
+input.mp3
