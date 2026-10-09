@@ -18,8 +18,10 @@ vocal_sep.py
 
 from __future__ import annotations
 
-import argparse
 import os
+os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+
+import argparse
 import sys
 import time
 from dataclasses import dataclass, field

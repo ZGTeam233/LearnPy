@@ -203,5 +203,5 @@ __marimo__/
 test*.png
 
 # 使用 Demucs 库时可能用来测试的输入/测试文件
-input.mp3
+src/input.mp3
 separated/
